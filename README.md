@@ -13,8 +13,7 @@ different names. Out of which we have chosen 45 stores for basic analysis.
 <li>Analyzing the Data and Create Dashboard: The company optimizes the routes to the 
 shipping dock and tracks the number of times the product is accessed before it reaches the 
 Customer's destination. 
-<li>Predictive Analysis: By using Predictive Analysis, the stores can anticipate demand at a 
-certain week and determine how many Sales Representatives / Employees are needed.
+<li>Predictive Analysis: By using Predictive Analysis, to forecast the weekly sales of the soter and also to forecast the CPI in that region.
 
 ## Descriptive Dashboard
 ![Descriptive Dashboard](https://github.com/aaarif796/Walmart-Sales-Analysis/blob/main/descriptive%20dashboard.png)
